@@ -54,9 +54,11 @@ Hey, I'm Vivek, a Python Programmer 👨🏻‍💻 from India. I'm a creative p
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
+<a href="https://github.com/vivekpatidar549"><img alt="Vivek Patidar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vivekpatidar549&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/vivekpatidar549"><img alt="Vivek patidar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatidar549&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
-</br>
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
