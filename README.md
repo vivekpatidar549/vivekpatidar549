@@ -16,7 +16,7 @@ Hey, I'm Vivek, a Python Programmer 👨🏻‍💻 from India. I'm a creative p
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="400" width="500" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47henwukev8wk23d6ie3y7gvo3xws6yx3530p0a9ly&rid=200w.webp&ct=g" />
+<img align="right" alt="GIF"  width=450px src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47henwukev8wk23d6ie3y7gvo3xws6yx3530p0a9ly&rid=200w.webp&ct=g" />
 
  - 📫 How to reach me: [vivekpatidar549@gmail.com](mailto:vivekpatidar@gmail.com);
 
@@ -41,11 +41,11 @@ Hey, I'm Vivek, a Python Programmer 👨🏻‍💻 from India. I'm a creative p
 ---
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://www.codechef.com/users/abhimaira_10">
+  <a href="https://www.codechef.com/users/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/abhishekmaira1999/">
+  <a href="https://leetcode.com/vivekpatidar549/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
