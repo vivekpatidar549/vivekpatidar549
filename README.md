@@ -10,7 +10,7 @@
 <br>
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=dfd536&size=33&lines=Hey!+I'm+Vivek+patidar.....;AI-ML+Enthusiast;and+Aspiring+Python;Programmer;Congo+you+found+me;on+github😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Hey!+I'm+Vivek+patidar.....;AI-ML+Enthusiast;and+Aspiring+Python;Programmer;Congo+you+found+me;on+github😎)](https://git.io/typing-svg)
 
 <br>
 
