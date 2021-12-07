@@ -7,8 +7,9 @@
 <a href="https://discordapp.com/vivek#8596" target="_blank"><img height="29" breadth="25" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
-
-Hey, I'm Vivek, a Python Programmer 👨🏻‍💻 from India. I'm a creative problem solving and AI ML enthusiast and a product guy, with a constantly growing his skills.I'm proud to say that **In Future I will succesfully center an element in ML.** Beside's Hacking stuff, I love to play volleyball🏐.
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=9ACD32&size=29&lines=Hey!+I'm+Vivek+patidar.....;AI-ML+Enthusiast;and+Aspiring+Python+Programmer;Congo+you+found+me;on+github😎)](https://git.io/typing-svg)
 
 <br>
 
