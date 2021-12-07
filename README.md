@@ -35,7 +35,6 @@ Hey, I'm Vivek, a Python Programmer 👨🏻‍💻 from India. I'm a creative p
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 ---
@@ -54,8 +53,8 @@ Hey, I'm Vivek, a Python Programmer 👨🏻‍💻 from India. I'm a creative p
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<a href="https://github.com/vivekpatidar549"><img alt="Vivek Patidar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vivekpatidar549&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/vivekpatidar549"><img alt="Vivek patidar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatidar549&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
+<a href="https://github.com/vivekpatidar549"><img alt="Vivek Patidar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vivekpatidar549&show_icons=true&title_color=800080&icon_color=9932CC&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/vivekpatidar549"><img alt="Vivek patidar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatidar549&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=5F9EA0&title_color=8A2BE2&icon_color=ADFF2F" height="192px"/></a>
 
 
 
