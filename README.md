@@ -41,7 +41,7 @@
 
 
 ---
-### 📢 Find me elsewhere
+### 📢 Find me elsewhere,
 <p align="left">
   <a href="https://www.codechef.com/users/vivek549">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
