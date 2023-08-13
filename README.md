@@ -53,21 +53,12 @@
   
   <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vivekpatidar549/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vivekpatidar549/practice" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/vivekpatidar549/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
 
  
 </p>
 
 <a href="https://github.com/vivekpatidar549"><img alt="Vivek Patidar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vivekpatidar549&show_icons=true&title_color=800080&icon_color=9932CC&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 
-
-
-<br clear="both">
-## Snack Eating My Contribution Graph
-
-![snake gif](https://github.com/vivekpatidar549/vivekpatidar549/blob/output/github-contribution-grid-snake.gif)
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
