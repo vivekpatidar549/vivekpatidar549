@@ -65,10 +65,9 @@
 
 
 <br clear="both">
+## Snack Eating My Contribution Graph
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/vivekpatidar549/vivekpatidar549/blob/output/github-contribution-grid-snake.gif)
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
