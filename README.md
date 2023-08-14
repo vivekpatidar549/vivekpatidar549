@@ -60,9 +60,18 @@
   </a>
  
 </p>
+<br><br>
 
 
-<a href="https://github.com/vivekpatidar549"><img alt="Vivek Patidar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vivekpatidar549&show_icons=true&title_color=800080&icon_color=9932CC&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekpatidar549&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekpatidar549&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 
 <h2 align="center" >🐍Snake Eating My Contribution 🐍</h2><p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
