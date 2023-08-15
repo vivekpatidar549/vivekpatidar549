@@ -12,10 +12,9 @@
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="400" width="500" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-<!--
-<img align="right" alt="GIF"  width=450px src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47henwukev8wk23d6ie3y7gvo3xws6yx3530p0a9ly&rid=200w.webp&ct=g" />-->
 
 <img align="right" alt="GIF"  width=450px src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47henwukev8wk23d6ie3y7gvo3xws6yx3530p0a9ly&rid=200w.webp&ct=g" />
+
 
  - 📫 How to reach me-<a href="mailto:vivekpatidar549@gmail.com">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" align="center" color="FFA500" alt="GMAIL" style="vertical-align:top; margin:4px">
