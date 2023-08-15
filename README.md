@@ -1,11 +1,12 @@
-<h2 align="center">👋 Hello! I'm Vivek.</h2>
+<h1 align="center">👋 Hello! I'm Vivek.</h1>
+<p align="center"> Embrace the journey, Conquer the destination. </p>
 
 <p align="left"> 
 
 <br>
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Hey!+I'm+Vivek+patidar.....;AI-ML+Enthusiast;and+Aspiring+Cpp+Programmer;Congratulations+you+found+me;on+github😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Hey!+I'm+Vivek+patidar.....;AI-ML+Enthusiast;and+Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
 
 <br>
 
