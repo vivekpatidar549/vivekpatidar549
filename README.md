@@ -1,4 +1,7 @@
  <img align="center" alt="GIF"  width=3500px src="https://github.com/vivekpatidar549/vivekpatidar549/blob/main/Black%20Elegant%20Personal%20LinkedIn%20Banner.gif" />
+
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=AI-ML+Enthusiast;Web+Developer;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
 <p align="left"> 
 
 
