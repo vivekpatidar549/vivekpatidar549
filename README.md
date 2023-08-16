@@ -3,11 +3,6 @@
 
 
 <br>
- 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Hey!+I'm+Vivek+patidar.....;AI-ML+Enthusiast;and+Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
-
-<br>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="400" width="500" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
