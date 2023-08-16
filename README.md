@@ -1,7 +1,6 @@
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<p align="center"> Embrace the journey, Conquer the destination. </p>
-
+ <img align="center" alt="GIF"  width=3500px src="https://github.com/vivekpatidar549/vivekpatidar549/blob/main/Black%20Elegant%20Personal%20LinkedIn%20Banner.gif" />
 <p align="left"> 
+
 
 <br>
  
