@@ -1,7 +1,7 @@
  <img align="center" alt="GIF"  width=3500px src="https://github.com/vivekpatidar549/vivekpatidar549/blob/main/Black%20Elegant%20Personal%20LinkedIn%20Banner.gif" />
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=AI-ML+Enthusiast;Web+Developer;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=AI-ML+Enthusiast;UI+/+UX+Designer;Web+Developer;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
 <p align="left"> 
 
 
@@ -28,11 +28,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><br><br>
+<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br><br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
+
+
 
 
 ---
