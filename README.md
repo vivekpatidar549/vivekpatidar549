@@ -68,7 +68,7 @@
 <a href="https://auth.geeksforgeeks.org/user/vivekpatidar549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivekpatidar549" height="30" width="40" /></a>
 <a href="https://discord.gg/Vivek#8596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vivek#8596" height="30" width="40" /></a>
 </p>
-<br><br>
+<br>
 
 ###
 
