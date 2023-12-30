@@ -25,16 +25,17 @@
 <br>
 
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br><br>
-<code><img height = "40" color="white" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-<code><img height = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
-<code><img height = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=cpp" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=python" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=html" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=css" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=js" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=git" ></code><br><br>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=mongodb" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=express" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=react" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=nodejs" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=tailwind" ></code><br><br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
