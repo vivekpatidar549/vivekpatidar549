@@ -12,8 +12,22 @@
 
 <img align="right" alt="GIF"  width=450px src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47henwukev8wk23d6ie3y7gvo3xws6yx3530p0a9ly&rid=200w.webp&ct=g" />
 
+###
 
- - 📫 How to reach me-<a href="mailto:vivekpatidar549@gmail.com">
+<h1 align="left">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🏡 I'm from Indore<br><br>- 🦁 Student at Vellore Institute Of Technology Bhopal <br>- 📚 I'm currently Working on Web development <br>- ⚡ In my free time 🗺️ I explore new Technologies</p>
+
+###
+
+ 
+-📫 How to reach me-<a href="mailto:vivekpatidar549@gmail.com">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" align="center" color="FFA500" alt="GMAIL" style="vertical-align:top; margin:4px">
   </a>
 
