@@ -1,7 +1,7 @@
  <img align="center" alt="GIF"  width=3500px src="https://github.com/vivekpatidar549/vivekpatidar549/blob/main/Black%20Elegant%20Personal%20LinkedIn%20Banner.gif" />
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=AI-ML+Enthusiast;UI+/+UX+Designer;Web+Developer;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36d2df&size=33&lines=Full+Stack+Developer;AI-ML+Enthusiast;UI+/+UX+Designer;Aspiring+Cpp+Programmer;Congratulations+you+found;me+on+github😎)](https://git.io/typing-svg)
 <p align="left"> 
 
 
@@ -25,21 +25,22 @@
 <br>
 
 
-<code><img height = "40" src = "https://skillicons.dev/icons?i=cpp" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=python" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=html" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=css" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=js" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=git" ></code><br><br>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=mongodb" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=express" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=cpp&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=python&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=html&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=css&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=js&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=git&theme=light" ></code><br><br>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=mongodb&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=express&theme=light" ></code>
 <code><img height = "40" src = "https://skillicons.dev/icons?i=react" ></code>
 <code><img height = "40" src = "https://skillicons.dev/icons?i=nodejs" ></code>
 <code><img height = "40" src = "https://skillicons.dev/icons?i=tailwind" ></code><br><br>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=gcp" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=vscode" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=figma" ></code>
-<code><img height = "40" src = "https://skillicons.dev/icons?i=photoshop" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=gcp&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=vscode&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=postman&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=figma&theme=light" ></code>
+<code><img height = "40" src = "https://skillicons.dev/icons?i=photoshop&theme=light" ></code>
 
 
 
