@@ -61,27 +61,12 @@
 
 ---
 ### 📢 Find me elsewhere,
-<p style="white-space: nowrap;">
-   <a href="https://www.linkedin.com/in/vivek-patidar-2281a1209/" target="blank" style="display: inline-block; margin-right: 300px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-patidar-2281a1209/" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://instagram.com/vivek_patidar__" target="blank" style="display: inline-block; margin-right: 300px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_patidar__" height="30" width="30" />&nbsp;&nbsp;&nbsp;
-  </a>
-    
-  <a href="https://discord.gg/Vivek#8596" target="blank" style="display: inline-block; margin-right: 300px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vivek#8596" height="30" width="30" />&nbsp;&nbsp;&nbsp;
-  </a>
-  
-  <a href="https://www.leetcode.com/vivekpatidar549" target="blank" style="display: inline-block; margin-right: 30px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpatidar549" height="30" width="30" />&nbsp;&nbsp;&nbsp;
-  </a>
-  
-  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vivekpatidar549/practice" target="blank" style="display: inline-block; margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vivekpatidar549/practice" height="30" width="30" />&nbsp;&nbsp;&nbsp;
-  </a>
- 
+<p align="left">
+<a href="https://linkedin.com/in/vivekpatidar549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekpatidar549" height="30" width="40" /></a>
+<a href="https://instagram.com/vivek_patidar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_patidar__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vivekpatidar549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpatidar549" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vivekpatidar549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivekpatidar549" height="30" width="40" /></a>
+<a href="https://discord.gg/Vivek#8596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vivek#8596" height="30" width="40" /></a>
 </p>
 <br><br>
 
