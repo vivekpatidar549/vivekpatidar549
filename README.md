@@ -79,11 +79,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vivekpatidar549&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<br>
+<!-- <br>
 <br>
 
 [![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekpatidar549&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ -->
 
 
 
