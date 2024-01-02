@@ -79,8 +79,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vivekpatidar549&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br>
+<br>
 
-[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekpatidar549&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekpatidar549&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
